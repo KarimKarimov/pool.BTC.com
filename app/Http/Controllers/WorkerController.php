@@ -11,8 +11,8 @@ use Illuminate\Support\Facades\View;
 class WorkerController extends Controller
 {
 
-    private const ACCESS_KEY = "r_dZQDQ9FStM9lZ";
-    private const PUID = "441535";
+    private const ACCESS_KEY = "XXXXXXX";
+    private const PUID = "11111111";
     private const STATUS = "all";
 
 
